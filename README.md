@@ -1,23 +1,23 @@
 # 10-Basic-HTML-CSS-projects
 
 
-Project 1 - Tribute Website
+Project 1 - Amazon Clone
 
-Project 2 - Job Application Form
+Project 2 - Javascript Documentation
 
-Project 3 - Parallax Wesbite
+Project 3 - Job Application Forms  Landing Page 
 
-Project 4 - Landing Page 
+Project 4 - Music Websites- myTunes
 
-Project 5 - Restaurant Website
+Project 5 - Parallax Website    
 
-Project 6 - Music Website
+Project 6 -  Restaurant Website
 
-Project 7 - Youtube Clone
+Project 7 - Tribute- Webpage
 
-Project 8 - Javascript Documentation
+Project 8 - Landing Page
 
-Project 9 - Blog Wesbite
+Project 9 - Youtube Clone
 
 Project 10 - Portfolio Website
 
