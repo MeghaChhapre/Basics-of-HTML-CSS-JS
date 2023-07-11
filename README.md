@@ -3,23 +3,23 @@
 
 Project 1 - Amazon Clone
 
-Project 2 - Javascript Documentation
+Project 2 - E-commerce store(nike sneakers store)
 
-Project 3 - Job Application Forms  Landing Page 
+Project 3 - Movie Website 
 
 Project 4 - Music Websites- myTunes
 
-Project 5 - Parallax Website    
+Project 5 - Notes Keeping App   
 
-Project 6 -  Restaurant Website
+Project 6 - Parallax website
 
-Project 7 - Tribute- Webpage
+Project 7 - Restaurant Website
 
-Project 8 - Landing Page
+Project 8 - Sidebar responsive Menu
 
-Project 9 - Youtube Clone
+Project 9 - Landing Page
 
-Project 10 - Portfolio Website
+Project 10 - YouTube Clone
 
 ## Connect with me
 
