@@ -15,7 +15,7 @@ Project 6 - Parallax website
 
 Project 7 - Restaurant Website
 
-Project 8 - Sidebar responsive Menu
+Project 8 - Responsive Sidebar Menu
 
 Project 9 - Landing Page
 
