@@ -1,10 +1,12 @@
 #Basic-HTML-CSS- JS Projects 
 
-Project 1 - Age Calculator (Life-timer)
 
-Project 2 - Amazon Clone
 
-Project 3 - E-commerce store(nike sneakers store)
+Project 1 - Amazon Clone
+
+Project 2 - E-commerce store(nike sneakers store)
+
+Project 3 - Life-timer( Age Calculator)
 
 Project 4 - Movie Website 
 
