@@ -1,26 +1,28 @@
-# 10-Basic-HTML-CSS-projects
+Basic-HTML-CSS- JS Projects 
 
-Project 0 - Age Calculator (Life-timer)
+Project 1 - Age Calculator (Life-timer)
 
-Project 1 - Amazon Clone
+Project 2 - Amazon Clone
 
-Project 2 - E-commerce store(nike sneakers store)
+Project 3 - E-commerce store(nike sneakers store)
 
-Project 3 - Movie Website 
+Project 4 - Movie Website 
 
-Project 4 - Music Websites- myTunes
+Project 5 - Music Websites- myTunes
 
-Project 5 - Notes Keeping App   
+Project 6 - Notes Keeping App   
 
-Project 6 - Parallax website
+Project 7 - Parallax website
 
-Project 7 - Restaurant Website
+Project 8 - Restaurant Website
 
-Project 8 - Responsive Sidebar Menu
+Project 9 - Responsive Sidebar Menu
 
-Project 9 - Landing Page
+Project 10 - Landing Page
 
-Project 10 - YouTube Clone
+Project 11 - YouTube Clone
+
+
 
 ## Connect with me
 
